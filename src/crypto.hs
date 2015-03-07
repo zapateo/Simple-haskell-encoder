@@ -30,8 +30,7 @@ main = do
     putStrLn " :: Please insert the message"
     message <- getLine
     if length key > length message then
-        putStrLn " :: Warning: useless components in KEY:"
-        putStrLn " ::   number of values in KEY is greater than number of chars in message"
+        putStrLn "  :: Warning: useless components in KEY ::   number of values in KEY is greater than number of chars in message"
         else
             putStr ""
     putStrLn " :: Choose what you want to do (enc/dec)"
