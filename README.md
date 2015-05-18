@@ -1,6 +1,8 @@
 # Haskell Crypto
 
-Encryption/decryption script written in Haskell
+Very simple encryption/decryption script written in Haskell
+
+This is for educational purpose only, DO NOT USE for cryptography!
 
 ## Usage
 Simply run the executables on the /bin folder.
