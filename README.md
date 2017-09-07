@@ -12,4 +12,4 @@ A command line prompt will ask you to insert a PIN, a keycode and a message.
 An integer value
 
 ### Keycode
-An arbitraty length of integer values.
+An arbitraty length list of integer values.
